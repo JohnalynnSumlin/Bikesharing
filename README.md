@@ -16,7 +16,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ### Link to Tableau Public Dashboard
 
-[Click Here] (https://public.tableau.com/app/profile/johnalynn.sumlin/viz/JSumlin_CitiBikes_Challenge/GenderandWeekdaybreakdownonBikeSharinginNYC?publish=yes) to view my story on tableau. Please refer to images and analysis below.
+[Click Here](https://public.tableau.com/app/profile/johnalynn.sumlin/viz/JSumlin_CitiBikes_Challenge/GenderandWeekdaybreakdownonBikeSharinginNYC?publish=yes) to view my story on tableau. Please refer to images and analysis below.
 
 ## Results
 
