@@ -21,12 +21,35 @@ This is the first page of the story which is dashboard, and it contains basic in
 
 ![1](https://user-images.githubusercontent.com/94920551/166932721-ee8a0db7-b41f-4f3a-a950-41e91880abd9.png)
 
-
 The page contains the following information:
 
 * Type of business (CitiBike), location with particular time frame of the data (New York City, August 2019).
 * Number of the total rides: 2,344,224.
 * Customer type: subscribers and customers.
 * Peak hours, divided by gender which shows the user behavior.
+
+* Checkout Times for Users
+![1](https://user-images.githubusercontent.com/94920551/166932904-9e110604-9402-4638-8078-b3f20b07b273.png)
+
+* This visualization shows the length of time for every bike ride during the month of August in 2019.
+* It shows that riders typically like to ride bike between 2 and 15 minutes.
+
+* Check Out Time by Gender
+![1](https://user-images.githubusercontent.com/94920551/166933107-2e824ca5-c2a8-4acf-9e26-d12eb97dda86.png)
+
+The graph shows number of checkout bikes and trip duration.
+Three different colors represent the classification of gender. Yellow represents male, blue represents female and red represents the unknown gender.
+This visualization shows the breakdown of riders by gender and duration of times showing that most of the users are men.
+
+* Trips by weekday per Hour
+![1](https://user-images.githubusercontent.com/94920551/166933365-6b0bd003-9b12-4757-b238-8f18be3360ad.png)
+* The graph shows number of trips per hour and per weekday.
+* The graph has hours as rows and weekdays as columns.
+* The color indicates the number of trips.
+* Darker shade color indicates more trips,
+* Lighter shade color indicates less trips.
+* Form the graph we can see that the busiest times are in the morning hours on weekdays from 6 am and 9 am and evening hours on weekdays between 5 pm and 7 pm.
+* On weekends (Saturday and Sunday) the busiest times are in the middle of the day between 10 am and 6 pm.
+
 
 ## Summary
