@@ -76,5 +76,19 @@ This visualization shows the breakdown of riders by gender and duration of times
 * Unknown gender has uniform distribution of the trips throughout the week.
 * Looking at the customers data we can see significant less trips throughout all genders with slight increase amongst unknown gender on Saturdays and Sundays.
 
+### Top Starting Locations & Top Ending Locations
+![1](https://user-images.githubusercontent.com/94920551/166934447-8a19b11b-bb80-47ab-b3b0-1b86e888caf7.png) ![1](https://user-images.githubusercontent.com/94920551/166934521-03b001ea-a2bf-48bf-91df-58b96e7c4ad0.png)
+
+
+* With the help of these two graphs we can see the most popular starting and ending locations.
+* The color indicates the types of users
+          * Orange color represent subscribers,
+          * Blue represent customers.
+* The bubble shapes represent the number of trips.
+* Larger bubbles represent locations with the highest number of trips,
+* Smaller bubbles represent lowest number of trips.
+* Also, we can find out popularity of stations amongst subscribers vs. customers and what areas are more popular than others.
+* Downtown area is much more popular than other areas, yet it is as important for surrounding areas to have bike services for good customer experience.
 
 ## Summary
+
