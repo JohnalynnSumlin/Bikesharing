@@ -92,3 +92,17 @@ This visualization shows the breakdown of riders by gender and duration of times
 
 ## Summary
 
+In the NYC CitiBike story, it tells us more about number of users and how they use the bikes per hour, by weekday per hour, who is most popular user type, popular areas and peak hours by gender.
+
+1. Bike maintenance
+
+* Bike maintenance plays a big role in bike share business.
+* Heat maps tell us clear story about the data which will helps us to visualize the scenario.
+* From the graphs Peak Hours per Gender, Trips by Weekday per Hour and Trips by Gender(Weekday per Hour) we can see that the least busy time is between 11pm and 5am. * * That suggests a good time for bike maintenance.
+* With the help of this we can make a plan for maintenance and rotation of the bikes from popular station to less popular stations as we can see in the graph Top 
+* Starting Stations and Top Ending Stations.
+
+2. Trip-duration
+
+* The most popular trip duration checkout time is between 3-8 hours. From this we can learn more about users behavior.
+* There should be some flexibility on usage of bikes per mile.
