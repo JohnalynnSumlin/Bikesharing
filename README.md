@@ -14,6 +14,10 @@ This new assignment consists of two technical analysis deliverables and a writte
 * Deliverable 2: Create Visualizations for the Trip Analysis
 * Deliverable 3: Create a Story and Report for the Final Presentation
 
+### Link to Tableau Public Dashboard
+
+[Click Here] (https://public.tableau.com/app/profile/johnalynn.sumlin/viz/JSumlin_CitiBikes_Challenge/GenderandWeekdaybreakdownonBikeSharinginNYC?publish=yes) to view my story on tableau. Please refer to images and analysis below.
+
 ## Results
 
 ### Basic Information
